@@ -1,0 +1,7 @@
+README.md
+setup.py
+test.py
+easysql.egg-info/PKG-INFO
+easysql.egg-info/SOURCES.txt
+easysql.egg-info/dependency_links.txt
+easysql.egg-info/top_level.txt
